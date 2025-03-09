@@ -69,8 +69,8 @@ Welcome to my GitHub profile! I'm a **BTech student** and a passionate **full-st
 ---
 
 ## ✨ **Fun Facts**:
-- 💡 I love solving **complex problems** and **learning new technologies** every day!
-- 🎮 When I’m not coding, I enjoy playing video games and watching tech documentaries.
+- 🔥 I thrive on **solving real-world problems** through code!  
+- 🌍 Passionate about **open-source contributions** and tech innovations.
 
 ---
 
